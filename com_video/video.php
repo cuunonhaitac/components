@@ -5,7 +5,7 @@ defined('_JEXEC') or die;
 $doc = JFactory::getDocument();
 $doc->addScript('./templates/green/js/jquery.tubular.1.0.js', 'text/javascript');
 ?>
-<div class="container" id="wrapper">
+<div id="wrapper">
     <div class="clearfix">
         <div id="main">
             <p id="video-controls" class="black-65">

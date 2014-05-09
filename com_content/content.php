@@ -17,7 +17,7 @@ JHtml::_('behavior.tabstate');
 //$controller->execute(JFactory::getApplication()->input->get('task'));
 //$controller->redirect();
 ?>
-<div class='container'>
+
         <!-- search -->
         <div class='p_rel'>
             <!-- Hot News -->
@@ -74,4 +74,3 @@ JHtml::_('behavior.tabstate');
 
 </div>
 <div class='span9'>		</div>
-</div>

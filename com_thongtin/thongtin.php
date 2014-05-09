@@ -4,7 +4,7 @@ defined('_JEXEC') or die;
 
 ?>
 
-<div class='container'>
+
 <!-- search -->
 <div class='p_rel'>
     <div class="span12" style="margin-left:0px;">
@@ -252,5 +252,4 @@ defined('_JEXEC') or die;
         <p style="margin-bottom:10px;"></p>
     </div>
     <div style="clear:both"></div>
-</div>
 </div>
